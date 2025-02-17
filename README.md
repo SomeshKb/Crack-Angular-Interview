@@ -15,12 +15,12 @@
 ---
 
 ## **2. TypeScript Fundamentals for Angular**  
-- Why Angular Uses TypeScript  
-- TypeScript Basics (Variables, Data Types, Functions)  
-- Classes and Interfaces  
-- Modules and Namespaces  
-- Decorators and Metadata  
-- Generics and Utility Types  
+- [Why Angular Uses TypeScript](./TypeScript%20Fundamentals%20for%20Angular/1.%20Why%20Angular%20Uses%20TypeScript.md)
+- [TypeScript Basics (Variables, Data Types, Functions)](./TypeScript%20Fundamentals%20for%20Angular/2.%20TypeScript%20Basics.md)
+- [Classes and Interfaces](./TypeScript%20Fundamentals%20for%20Angular/3.%20Classes%20and%20Interfaces.md)
+- [Modules and Namespaces](./TypeScript%20Fundamentals%20for%20Angular/4.%20Modules%20and%20Namespaces.md)
+- [Decorators and Metadata](./TypeScript%20Fundamentals%20for%20Angular/5.%20Decorators%20and%20Metadata.md)  
+- [Generics and Utility Types](./TypeScript%20Fundamentals%20for%20Angular/6.%20Generics%20and%20Utility%20Types.md)
 
 ---
 
